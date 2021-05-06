@@ -7,7 +7,7 @@
 
 ### 구병모
 
-* [Byeongmo Repository](https://github.com/BM-Koo
+* [Byeongmo Repository](https://github.com/BM-Koo)
 
 ### 이진규
 
